@@ -43,6 +43,7 @@
 | ---- | ------------------------------------------------- |
 | 框架 | React 19 + TypeScript                             |
 | 构建 | Vite 6                                            |
+| 端口 | 51730                                             |
 | 路由 | react-router-dom 7                                |
 | 3D   | three.js + @react-three/fiber + @react-three/drei |
 | 样式 | Tailwind CSS                                      |
